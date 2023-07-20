@@ -5,7 +5,7 @@ export default styled(()=>({
         maxWidth:'100%',
     },
     media:{
-        height:0 ,
+        height:"100%" ,
         paddingTop:'56.25%',
     },
     cardActions:{
